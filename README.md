@@ -18,7 +18,7 @@ I originally set out to build my own recreation of the [Lovebox](https://en.love
 
 ### Files 
 
-- _PiClock_Tele.py_ is the final implementation of the project
+- _PiClock_Tele.py_ is the final implementation of the project. You will have to add your own phone #, username, and API details.
 - _PiClock.py_ only has the clock face and weather forecast, no Telegram functionality
 - _Weather Icons_ has all the weather images used, courtesy of Apple Weather Icons found [here](https://support.apple.com/guide/iphone/view-the-weather-icons-iph4305794fb/ios)
 - _fonts_ has all the fonts used
