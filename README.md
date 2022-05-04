@@ -37,8 +37,7 @@ You may notice that occasionally a stutter will occur, likely due to some networ
 #### Weather Forecast
 
 The display outputs the date and time, then uses a scheduler to update the weather forecast for the following 4 hours every 10 minutes and at the hour change using Open Weather. 
-I used the returned weather data codes and corresponding weather widget icons to display the temperature and weather icon for the forecasts. .
-Weather data codes and their corresponding icons can be found in the Open Weather documentation. If no internet connection is detected, then the forecast will be replaced with a "NO WIFI CONNECTION" text. 
+I used the returned weather data codes and corresponding weather widget icons to display the temperature and weather icon for the forecasts. Weather data codes and their corresponding icons can be found in the Open Weather documentation. If no internet connection is detected, then the forecast will be replaced with a "NO WIFI CONNECTION" text. 
 
 #### Telegram Integration
 
